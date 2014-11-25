@@ -1,5 +1,5 @@
-Langkawi
-========
+Collar
+======
 
-BaseKit's Langkawi Template
+BaseKit theme based upon Langkawi theme.
 
