@@ -3,6 +3,9 @@
 	"thumbnail":"collar.png",
 	"screenshot":"collar.png",
 	"templateType":"standard",
+	"pageTypes": [
+		"home"
+	],
     "tags": {
     "en": ["turism", "clean", "modern", "colorful", "colourful", "flexible", "open", "vertical menu", "spa", "serif", "travel", "hospitality", "holiday", "hotel"],
     "es": ["turismo", "limpio", "moderno", "colorido", "flexible", "abierto", "menú vertical", "balneario", "serif", "viaje", "hoteleria", "vacaciones", "hotel"],
@@ -13,53 +16,53 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#B7B8B9",
-            "color3":"#1f4653",
+            "color3":"#0080C8",
             "color4":"#0a2230",
             "color5":"#686868",
             "color6":"#ffffff",
-            "color7":"#6BD5DA"
+            "color7":"#0080C8"
         },
         "Swatch 2": {
             "color1":"#ffffff",
-            "color2":"#6DB8BB",
-            "color3":"#6DB8BB",
-            "color4":"#0a2230",
-            "color5":"#686868",
+            "color2":"#b9d7d9",
+            "color3":"#3d695e",
+            "color4":"#aaaaaa",
+            "color5":"#8c8c8c",
             "color6":"#ffffff",
-            "color7":"#C7CECD"
+            "color7":"#3dd5a9"
         },
         "Swatch 3": {
             "color1":"#ffffff",
-            "color2":"#BABABB",
-            "color3":"#308BD3",
-            "color4":"#0a2230",
-            "color5":"#686868",
+            "color2":"#d9bab9",
+            "color3":"#693d48",
+            "color4":"#aaaaaa",
+            "color5":"#8c8c8c",
             "color6":"#ffffff",
-            "color7":"#6DA0C9"
+            "color7":"#d53d6b"
         },
         "Swatch 4": {
             "color1":"#ffffff",
-            "color2":"#BEBFC0",
-            "color3":"#22d7d9",
-            "color4":"#0a2230",
-            "color5":"#686868",
+            "color2":"#c1bec7",
+            "color3":"#4c4c55",
+            "color4":"#a5a5a5",
+            "color5":"#888888",
             "color6":"#ffffff",
-            "color7":"#598D9E"
+            "color7":"#535ab7"
         },
         "Swatch 5": {
             "color1":"#ffffff",
-            "color2":"#cbcccc",
-            "color3":"#1f4653",
-            "color4":"#0a2230",
-            "color5":"#686868",
+            "color2":"#a0aebf",
+            "color3":"#35545c",
+            "color4":"#959595",
+            "color5":"#7a7a7a",
             "color6":"#ffffff",
-            "color7":"#57DABF"
+            "color7":"#34abbc"
         }
     },
     "fontSwatch": {
-       "title": "Merriweather",
+       "title": "Vollkorn",
         "font1": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
@@ -67,7 +70,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "28px",
             "font-weight": "inherit",
             "line-height": "38px",
@@ -75,7 +78,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "34px",
@@ -83,7 +86,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "inherit",
             "line-height": "30px",
@@ -91,7 +94,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "24px",
@@ -99,28 +102,28 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
-            "color": "darken(@color-swatch7,35%)",
-            "color-hover": "@color-swatch1",
+            "color": "@color-swatch1",
+            "color-hover": "lighten(@color-swatch7, 30%)",
             "letter-spacing": "inherit",
             "background-color": "@color-swatch7",
             "background-color-hover": "@color-swatch7"
         },
         "font7": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
             "color": "@color-swatch6",
             "letter-spacing": "inherit",
             "background-color": "@color-swatch3",
-            "background-color-hover": "lighten(@color-swatch3,10%)"
+            "background-color-hover": "darken(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "24px",
             "font-weight": "400",
             "line-height": "36px",
@@ -128,7 +131,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -136,7 +139,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
