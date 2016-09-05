@@ -1,66 +1,108 @@
 {
-	"name":"Collar",
-	"thumbnail":"collar.png",
-	"screenshot":"collar.png",
-	"templateType":"standard",
-	"pageTypes": [
-		"home"
-	],
+    "name": "Collar",
+    "thumbnail": "collar.png",
+    "screenshot": "collar-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["turism", "clean", "modern", "colorful", "colourful", "flexible", "open", "vertical menu", "spa", "serif", "travel", "hospitality", "holiday", "hotel"],
-    "es": ["turismo", "limpio", "moderno", "colorido", "flexible", "abierto", "menú vertical", "balneario", "serif", "viaje", "hoteleria", "vacaciones", "hotel"],
-    "br": ["turismo", "limpo", "moderno", "colorido", "flexível", "aberto", "menu vertical", "estância termal", "serif", "Viagem", "hospitalidade", "férias", "hotel"]
+        "en": [
+            "turism",
+            "clean",
+            "modern",
+            "colorful",
+            "colourful",
+            "flexible",
+            "open",
+            "vertical menu",
+            "spa",
+            "serif",
+            "travel",
+            "hospitality",
+            "holiday",
+            "hotel"
+        ],
+        "es": [
+            "turismo",
+            "limpio",
+            "moderno",
+            "colorido",
+            "flexible",
+            "abierto",
+            "men\u00fa vertical",
+            "balneario",
+            "serif",
+            "viaje",
+            "hoteleria",
+            "vacaciones",
+            "hotel"
+        ],
+        "br": [
+            "turismo",
+            "limpo",
+            "moderno",
+            "colorido",
+            "flex\u00edvel",
+            "aberto",
+            "menu vertical",
+            "est\u00e2ncia termal",
+            "serif",
+            "Viagem",
+            "hospitalidade",
+            "f\u00e9rias",
+            "hotel"
+        ]
     },
-	"colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#B7B8B9",
-            "color3":"#0080C8",
-            "color4":"#0a2230",
-            "color5":"#686868",
-            "color6":"#ffffff",
-            "color7":"#0080C8"
+            "color1": "#ffffff",
+            "color2": "#B7B8B9",
+            "color3": "#0080C8",
+            "color4": "#0a2230",
+            "color5": "#686868",
+            "color6": "#ffffff",
+            "color7": "#0080C8"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#b9d7d9",
-            "color3":"#3d695e",
-            "color4":"#aaaaaa",
-            "color5":"#8c8c8c",
-            "color6":"#ffffff",
-            "color7":"#3dd5a9"
+            "color1": "#ffffff",
+            "color2": "#b9d7d9",
+            "color3": "#3d695e",
+            "color4": "#aaaaaa",
+            "color5": "#8c8c8c",
+            "color6": "#ffffff",
+            "color7": "#3dd5a9"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#d9bab9",
-            "color3":"#693d48",
-            "color4":"#aaaaaa",
-            "color5":"#8c8c8c",
-            "color6":"#ffffff",
-            "color7":"#d53d6b"
+            "color1": "#ffffff",
+            "color2": "#d9bab9",
+            "color3": "#693d48",
+            "color4": "#aaaaaa",
+            "color5": "#8c8c8c",
+            "color6": "#ffffff",
+            "color7": "#d53d6b"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#c1bec7",
-            "color3":"#4c4c55",
-            "color4":"#a5a5a5",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#535ab7"
+            "color1": "#ffffff",
+            "color2": "#c1bec7",
+            "color3": "#4c4c55",
+            "color4": "#a5a5a5",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#535ab7"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#a0aebf",
-            "color3":"#35545c",
-            "color4":"#959595",
-            "color5":"#7a7a7a",
-            "color6":"#ffffff",
-            "color7":"#34abbc"
+            "color1": "#ffffff",
+            "color2": "#a0aebf",
+            "color3": "#35545c",
+            "color4": "#959595",
+            "color5": "#7a7a7a",
+            "color6": "#ffffff",
+            "color7": "#34abbc"
         }
     },
     "fontSwatch": {
-       "title": "Vollkorn",
+        "title": "Vollkorn",
         "font1": {
             "font-family": "\"Vollkorn\", Georgia, serif",
             "font-size": "30px",
